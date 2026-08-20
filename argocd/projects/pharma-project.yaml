@@ -4,7 +4,7 @@ metadata:
   name: pharma
   namespace: argocd
 spec:
-  description: Pharma microservices project
+  description: Pharma microservices project details
 
   sourceRepos:
     # Replace '<your-username>' with your GitHub username or org name
